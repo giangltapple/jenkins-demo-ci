@@ -2,5 +2,5 @@ print("---------------------------------")
 print("Xin chao! Day la ung dung Python.")
 print("Duoc chay boi Jenkins CI.")
 print("Duoc sửa bởi giangltapple.")
-print("Thieu dau ngoac dong"
+print("Thieu dau ngoac dong")
 print("---------------------------------")
